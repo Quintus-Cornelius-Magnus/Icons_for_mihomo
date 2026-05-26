@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="proxy-access-server" x1="21" x2="43" y1="21" y2="41" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5A4F" />
+      <stop offset="1" stop-color="#E83C34" />
+    </linearGradient>
+    <marker id="proxy-access-arrow" markerHeight="4" markerWidth="4" orient="auto" refX="3.2" refY="2">
+      <path d="M0 0L4 2L0 4Z" fill="#07586A" />
+    </marker>
+  </defs>
+  <circle cx="32" cy="26" r="18" fill="#EAF8FB" />
+  <path d="M14 26h36M18.5 18h27M18.5 34h27" stroke="#07586A" stroke-linecap="round" stroke-width="2.4" />
+  <path d="M32 8v36M24.5 10.5C20.7 14.6 18.8 19.8 18.8 26s1.9 11.4 5.7 15.5M39.5 10.5c3.8 4.1 5.7 9.3 5.7 15.5s-1.9 11.4-5.7 15.5" stroke="#07586A" stroke-linecap="round" stroke-width="2.4" />
+  <path d="M14.5 40.5A23.5 23.5 0 0 1 9 17.5" stroke="#07586A" stroke-linecap="round" stroke-width="2.9" marker-end="url(#proxy-access-arrow)" />
+  <path d="M49.5 11.5A23.5 23.5 0 0 1 55 34.5" stroke="#07586A" stroke-linecap="round" stroke-width="2.9" marker-end="url(#proxy-access-arrow)" />
+  <rect width="28" height="15" x="18" y="22" fill="url(#proxy-access-server)" rx="3.5" />
+  <path d="M22.5 29.5h6M22.5 33h6M34 31h.1M39 31h.1" stroke="#1D1D1F" stroke-linecap="round" stroke-width="2.6" />
+  <path d="M32 37v9M16 46h32M16 46v5M48 46v5" stroke="#07586A" stroke-linecap="round" stroke-width="3" />
+  <rect width="12" height="8" x="10" y="51" fill="#FF5A4F" rx="2" />
+  <rect width="12" height="8" x="26" y="51" fill="#FF5A4F" rx="2" />
+  <rect width="12" height="8" x="42" y="51" fill="#FF5A4F" rx="2" />
+</svg>
