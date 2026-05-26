@@ -26,6 +26,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/dmit_logo.svg`
 - `icons/isp/kendeji2clear_com.png`
 - `icons/isp/oix-dark.png`
+- `icons/isp/oracle-logo-pill.svg`
 - `icons/isp/tag-red-square.png`
 - `icons/isp/zgo.png`
 
