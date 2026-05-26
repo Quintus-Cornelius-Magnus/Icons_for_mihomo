@@ -27,6 +27,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/kendeji2clear_com.png`
 - `icons/isp/oix-dark.png`
 - `icons/isp/oracle-logo-pill.svg`
+- `icons/isp/tag-blue-square.png`
 - `icons/isp/tag-red-square.png`
 - `icons/isp/zgo.png`
 
@@ -36,7 +37,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/service/cernet.png`
 - `icons/service/openai.svg`
 - `icons/service/pixiv.svg`
-- `icons/service/proxy-access.svg`
+- `icons/service/speedtest.svg`
 - `icons/service/steam.svg`
 - `icons/service/telegram.svg`
 - `icons/service/youtube.svg`
