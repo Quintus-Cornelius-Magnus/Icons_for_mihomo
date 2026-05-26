@@ -24,7 +24,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/VPS.svg`
 - `icons/isp/aws-logo.png`
 - `icons/isp/dmit_logo.svg`
-- `icons/isp/kendeji2clear_com.png`
+- `icons/isp/KFC.svg`
 - `icons/isp/oix-dark.png`
 - `icons/isp/oracle-logo-pill.svg`
 - `icons/isp/tag-blue-square.png`
