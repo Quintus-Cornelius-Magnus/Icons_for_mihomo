@@ -29,6 +29,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/oracle-logo-pill.svg`
 - `icons/isp/tag-blue-square.png`
 - `icons/isp/tag-red-square.png`
+- `icons/isp/vmiss.svg`
 - `icons/isp/zgo.png`
 
 ## Service
