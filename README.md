@@ -44,4 +44,5 @@ flag artwork itself is not scaled or redrawn.
 - `icons/service/speedtest.svg`
 - `icons/service/steam.svg`
 - `icons/service/telegram.svg`
+- `icons/service/x.svg`
 - `icons/service/youtube.svg`
