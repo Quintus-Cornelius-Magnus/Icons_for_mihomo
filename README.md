@@ -39,6 +39,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/service/adguard.svg`
 - `icons/service/cernet.png`
 - `icons/service/codex.svg`
+- `icons/service/google.png`
 - `icons/service/openai.svg`
 - `icons/service/pixiv.svg`
 - `icons/service/speedtest.svg`
