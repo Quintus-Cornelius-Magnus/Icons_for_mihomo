@@ -23,6 +23,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/Dgfly.svg`
 - `icons/isp/VPS.svg`
 - `icons/isp/akko.png`
+- `icons/isp/ali.svg`
 - `icons/isp/aws-logo.svg`
 - `icons/isp/biglobe.svg`
 - `icons/isp/bugnet.png`
