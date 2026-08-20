@@ -29,6 +29,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/bugnet.png`
 - `icons/isp/dmit_logo.svg`
 - `icons/isp/KFC.svg`
+- `icons/isp/nosla.png`
 - `icons/isp/oix-dark.png`
 - `icons/isp/oracle-logo-pill.svg`
 - `icons/isp/softbank.svg`
