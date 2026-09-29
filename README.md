@@ -29,6 +29,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/biglobe.svg`
 - `icons/isp/bugnet.png`
 - `icons/isp/dmit_logo.svg`
+- `icons/isp/gcp.png`
 - `icons/isp/KFC.svg`
 - `icons/isp/nosla.png`
 - `icons/isp/oix-dark.png`
@@ -44,7 +45,6 @@ flag artwork itself is not scaled or redrawn.
 - `icons/service/adguard.svg`
 - `icons/service/cernet.png`
 - `icons/service/codex.svg`
-- `icons/service/gcp.png`
 - `icons/service/google.png`
 - `icons/service/microsoft.png`
 - `icons/service/openai.svg`
