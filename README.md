@@ -35,6 +35,7 @@ flag artwork itself is not scaled or redrawn.
 - `icons/isp/oix-dark.png`
 - `icons/isp/oix.png`
 - `icons/isp/oracle-logo-pill.svg`
+- `icons/isp/riven.png`
 - `icons/isp/softbank.svg`
 - `icons/isp/tag-blue-square.png`
 - `icons/isp/tag-red-square.png`
