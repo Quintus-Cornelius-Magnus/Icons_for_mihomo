@@ -13,6 +13,7 @@ The current flag icons are derived from [FlagCDN](https://flagcdn.com/) SVG file
 - `icons/flags/kr.svg` - South Korea
 - `icons/flags/tw.svg` - Taiwan
 - `icons/flags/cn.svg` - China
+- `icons/flags/de.svg` - Germany
 
 Each SVG has been converted to a square drawing area by expanding the root
 `viewBox` vertically and centering the original rectangular flag artwork. The
